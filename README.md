@@ -11,3 +11,4 @@ or sign up.
 
 [Microsoft Learn: Python Beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/)
 
+[API & Web Scraping w/ Python](https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_209)
