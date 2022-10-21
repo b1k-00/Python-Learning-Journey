@@ -1,0 +1,11 @@
+flowers= input("Enter your favorite flower: ")
+#this ask users to input their favorite flowers
+
+color = input("What color is " + flowers+ "?")
+#This ask users to input the color of the flower
+
+gift = input("Who would you gift the " + color + " " + flowers + " to? ")
+#This asks users who would they gift the flowers to
+
+print("My favorite flowers are "+ flowers + ". They are " +color +". If I could i would give them to " + gift)
+#A complete sentence for the user inputs
