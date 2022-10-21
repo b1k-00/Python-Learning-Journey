@@ -12,3 +12,5 @@ or sign up. Also listed above are coding examples.
 [Microsoft Learn: Python Beginners](https://learn.microsoft.com/en-us/training/paths/beginner-python/)
 
 [API & Web Scraping w/ Python](https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_209)
+
+[Free Code Camp: 4 hour YT video for beginners](https://youtu.be/rfscVS0vtbw)
