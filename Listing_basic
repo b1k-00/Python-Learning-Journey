@@ -1,0 +1,7 @@
+friends = ["Jone", "CBo", "Glo"]
+#my original list
+
+friends[0] = "b1k"
+#modified my list to initialize 0 as b1k
+
+print(friends[0])
